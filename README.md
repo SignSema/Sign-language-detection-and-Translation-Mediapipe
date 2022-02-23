@@ -1,2 +1,2 @@
-# Sign language detection Mediapipe
- sign language detection using tensorflow and mediapipe
+# Sign Language Detection and Translation.
+ Using mediapipe holistic we can estimate the position of various face, hand and body pose keypoints.
