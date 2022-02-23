@@ -1,8 +1,7 @@
 # Sign Language Detection and Translation.
  Using mediapipe holistic we can estimate the position of various face, hand and body-pose keypoints.
  
- [![bandicam 2022-02-12 11-00-15-551 mp4_20220212_111159 mp4_20220213_113443 143](https://user-images.githubusercontent.com/68475422/155275908-08d8c400-361e-4a95-b5ed-d0e5dbb8db8b.png)](https://www.youtube.com/watch?v=H7hxbDMA7Yo)
-
+![dance](https://user-images.githubusercontent.com/68475422/155277775-6f41e20a-4e85-499b-b37f-9711ec7239f0.gif)
 
  The body movement of sign language gestures are estimated by the AI and the keypoints of these movements are extracted as numpy arrays.
 
