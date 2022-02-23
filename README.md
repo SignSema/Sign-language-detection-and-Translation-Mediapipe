@@ -12,4 +12,4 @@
 
  Using the camera feed the model can make predictions whose probabilities can also be displayed as a rectangle of dynamically changing length.
  
- 
+ [![Sign language](https://user-images.githubusercontent.com/68475422/155279503-c5ada12b-a87a-416a-920b-79de0e633951.png)](https://youtu.be/AKNrkSKYvuY)
