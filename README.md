@@ -13,3 +13,7 @@
  Using the camera feed the model can make predictions whose probabilities can also be displayed as a rectangle of dynamically changing length.
  
  [![Sign language](https://user-images.githubusercontent.com/68475422/155279503-c5ada12b-a87a-416a-920b-79de0e633951.png)](https://youtu.be/AKNrkSKYvuY)
+
+Update: Looking better now, can translate in almost real time... 
+
+[![bandicam 2022-03-11 16-39-57-143 mp4_20220311_173432 avi_20220311_174737 avi_20220311_175948 883](https://user-images.githubusercontent.com/68475422/157896151-47838fbd-274e-4d96-831b-53ef3845e14a.png)](https://youtu.be/7fn5HuKR7D4)
