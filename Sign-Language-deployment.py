@@ -95,9 +95,7 @@ with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=
             X = pd.DataFrame([row])
             sign_class = model.predict(X)[0]
             sign_prob = model.predict_proba(X)[0]
-            print(sign_class, sign_prob[np.argmax(sign_prob)])
-            predictions.append(sign_class)
-            
+                      
             #Sentence Logic
             if sign_prob[np.argmax(sign_prob)] > threshold:
                 predictions.append(sign_class)
