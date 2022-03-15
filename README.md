@@ -17,3 +17,12 @@
 Update: Looking better now, can translate in almost real time... 
 
 [![bandicam 2022-03-11 16-39-57-143 mp4_20220311_173432 avi_20220311_174737 avi_20220311_175948 883](https://user-images.githubusercontent.com/68475422/157896151-47838fbd-274e-4d96-831b-53ef3845e14a.png)](https://youtu.be/7fn5HuKR7D4)
+
+## Instructions
+
+1. Create and activate an environment in which all the imports are installed
+2. cd to the directory where both sign-language-detection-and-translation.py and MP_model.pkl are stored
+3. Python run sign-language-detection-and-translation.py
+
+### Trained signs 
+Hello(waving with palm facing camera), my (right hand palm flat on chest), name (both hands letter h with right-hand fingers resting on left-hand fingers), Alphabet as shown [!here](https://www.youtube.com/watch?v=WNigt-vfTX0&t=5s).
