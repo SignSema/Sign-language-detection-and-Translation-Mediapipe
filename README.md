@@ -8,13 +8,33 @@
 
  The body movement of sign language gestures are estimated by the AI and the keypoints of these movements are extracted as numpy arrays.
 
+## Type 1:
+
  These numpy arrays are fed into an LSTM Neural Network as the datasets and the neural network is trained for 500 epochs.
 
  Using the camera feed the model can make predictions whose probabilities can also be displayed as a rectangle of dynamically changing length.
  
  [![Sign language](https://user-images.githubusercontent.com/68475422/155279503-c5ada12b-a87a-416a-920b-79de0e633951.png)](https://youtu.be/AKNrkSKYvuY)
 
-Update: Looking better now, can translate in almost real time... 
+### pros
+
+Can detect actions reliably.
+
+### cons
+
+Requires many frames thus useless in conversation.
+
+## Type 2:
+
+These numpy arrays are fed into a Multilayer perceptron that detects key frames in the actions.
+
+### pros
+
+Very fast, can probably keep up in a conversation.
+
+### cons
+
+Cannot detect movements
 
 [![bandicam 2022-03-11 16-39-57-143 mp4_20220311_173432 avi_20220311_174737 avi_20220311_175948 883](https://user-images.githubusercontent.com/68475422/157896151-47838fbd-274e-4d96-831b-53ef3845e14a.png)](https://youtu.be/7fn5HuKR7D4)
 
@@ -25,4 +45,4 @@ Update: Looking better now, can translate in almost real time...
 3. Python run sign-language-detection-and-translation.py
 
 ### Trained signs 
-Hello(waving with palm facing camera), my (right hand palm flat on chest), name (both hands letter h with right-hand fingers resting on left-hand fingers), Alphabet as shown [here](https://www.youtube.com/watch?v=WNigt-vfTX0&t=5s).
+Hello (waving with palm facing camera), my (right hand palm flat on chest), name (both hands letter h with right-hand fingers resting on left-hand fingers), me (right hand pointing at your chest), The entire alphabet as shown [here](https://www.youtube.com/watch?v=WNigt-vfTX0&t=5s).
