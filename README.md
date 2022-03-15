@@ -25,4 +25,4 @@ Update: Looking better now, can translate in almost real time...
 3. Python run sign-language-detection-and-translation.py
 
 ### Trained signs 
-Hello(waving with palm facing camera), my (right hand palm flat on chest), name (both hands letter h with right-hand fingers resting on left-hand fingers), Alphabet as shown [!here](https://www.youtube.com/watch?v=WNigt-vfTX0&t=5s).
+Hello(waving with palm facing camera), my (right hand palm flat on chest), name (both hands letter h with right-hand fingers resting on left-hand fingers), Alphabet as shown [here](https://www.youtube.com/watch?v=WNigt-vfTX0&t=5s).
