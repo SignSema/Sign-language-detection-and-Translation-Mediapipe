@@ -34,7 +34,7 @@ Very fast, can probably keep up in a conversation.
 
 ### cons
 
-Cannot detect movements
+Cannot detect movements just frames.
 
 [![bandicam 2022-03-11 16-39-57-143 mp4_20220311_173432 avi_20220311_174737 avi_20220311_175948 883](https://user-images.githubusercontent.com/68475422/157896151-47838fbd-274e-4d96-831b-53ef3845e14a.png)](https://youtu.be/7fn5HuKR7D4)
 
