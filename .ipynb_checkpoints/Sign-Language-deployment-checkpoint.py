@@ -54,7 +54,7 @@ def speak(text):
 
 # # # # Load model
 
-model = joblib.load('MP_model.pkl')
+model_L = joblib.load('MP_model.pkl')
     
 
 # # # # # Make Detections
