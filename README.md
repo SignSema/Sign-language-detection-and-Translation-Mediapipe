@@ -40,7 +40,7 @@ Cannot detect movements just frames.
 
 # Instructions for running and testing.
 
-1. Create and activate an environment in which all the imports are installed. (tested on anaconda but a standard python environment should work)
+1. Create and activate an environment in which all the imports are installed. (All the imports are at the top of the code. I used an anaconda environment but a standard python environment should workas well)
 2. cd to the directory where both sign-language-detection-and-translation.py and MP_model.pkl are stored
 3. Python run sign-language-detection-and-translation.py
 
