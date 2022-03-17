@@ -3,7 +3,6 @@
 import cv2
 import numpy as np
 import mediapipe as mp
-import pickle
 import joblib
 import csv
 import pandas as pd
