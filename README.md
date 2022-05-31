@@ -16,7 +16,7 @@ Second try, better... scalable.
 # Instructions for running and testing.
 
 1. Create and activate an environment in which all the imports are installed. (All the imports are at the top of the code. I used an anaconda environment but a standard python environment should work as well)
-2. cd to the directory where both sign-language-detection-and-translation.py and MP_model_head.pkl are stored
+2. cd to the directory where both sign-language-detection-and-translation.py, MP_model_head.pkl and both csvs are stored
 3. Python run sign-language-detection-and-translation.py or run all the cells of the jupytr notebook.(They're the same)
 
 ## Trained signs 
