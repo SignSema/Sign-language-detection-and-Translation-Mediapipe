@@ -3,7 +3,6 @@
  
 ![dance](https://user-images.githubusercontent.com/68475422/155277775-6f41e20a-4e85-499b-b37f-9711ec7239f0.gif)
 
-![bandicam 2022-02-18 21-21-37-650 mp4_20220218_214008 mp4_20220223_104116 006](https://user-images.githubusercontent.com/68475422/155278423-fa1b081e-b393-40b6-ae47-94cc7fbfeb6f.png)
 
 By collecting the data extracted by the mediapipe library and training a machine learning model on sign language gestures a sign language interpreter can be made.
 
